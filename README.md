@@ -29,6 +29,5 @@
       <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMYgGRJyKW3QoruOnSGJ-9_TeZ7I1pjYaj9Edoot6w&s" height=150 width=150>
     <li>Goiaba<p><img src="https://img.freepik.com/fotos-premium/goiaba-do-close-up-rosa-fresco-organico-com-as-folhas-inteiras-e-cortadas-isoladas-no-fundo-branco-vista-frontal_59529-240.jpg?w=2000" height=150 width=150>  
      
-      <h2>Modo de preparo<h2>
-      <li> Misture todas as frutas<p>
+
 
